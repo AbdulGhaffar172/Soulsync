@@ -104,7 +104,7 @@ const Almost_done = ({navigation}) => {
                 borderRadius: 20,
                 textAlign: 'center',
               }}>
-              Create Profile
+              Create Profile is for
             </Text>
           </TouchableOpacity>
         </View>
